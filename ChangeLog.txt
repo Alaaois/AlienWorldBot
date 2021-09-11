@@ -1,0 +1,27 @@
+RU
+v 1.01
+Изменен метод работы скрипта.
+Добавлена ветка автоматической авторизации с помощью F2.
+v1.02
+Добавлены новые элементы для кликов.
+v1.03
+Обновлен READme.md.
+Изменен метод авторизации с помощью F2.
+v1.04
+Убрал проверку капчи т.к. сейчас не нужна (она в комментариях, если надо будет можете поменять)
+Перераспределил код по действиям
+Убрал второю проверку авторизации при запуске браузера с помощью бота (login1)
+
+EN
+v 1.01
+Changed the method of the script.
+Added the automatic authorization branch using F2.
+v1.02
+Added new elements for clicks.
+v1.03
+Upadate READme.md.
+Changed the authorization method using F2.
+v1.04
+Removed the captcha check because it is not needed now (it is in the comments, if necessary, you can change it)
+Redistributed the code by actions
+Removed the second authorization check when launching the browser using the bot (login1)
